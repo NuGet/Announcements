@@ -8,7 +8,7 @@ All items posted to this repo are locked, but will typically have links to separ
 
 Subscribe to this repo to be notified about major changes, upcoming features and other noteworthy announcements in NuGet.
 
-
+![subscribe](https://user-images.githubusercontent.com/14800916/29544263-bea081fa-869b-11e7-9c18-b576890ba049.png)
 
 ## Using the Issues list
 
