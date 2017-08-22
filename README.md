@@ -12,4 +12,4 @@ Subscribe to this repo to be notified about major changes, upcoming features and
 
 ## Using the Issues list
 
-Use the [Announcement](https://github.com/nuget/Announcements/labels/Announcement), [Feature](https://github.com/nuget/Announcements/labels/Feature) and [Breaking Change](https://github.com/nuget/Announcements/labels/Breaking%20Change) labels to see what's new and changed. Filter by milestone to find announcements or breaking changes for a specific release.
+Use the [Feature](https://github.com/nuget/Announcements/labels/Feature) and [Breaking Change](https://github.com/nuget/Announcements/labels/Breaking%20Change) labels to see what's new and changed.
