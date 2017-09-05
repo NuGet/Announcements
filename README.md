@@ -14,7 +14,7 @@ Subscribe to this repo to be notified about major changes, upcoming features and
 
 Use the [Feature](https://github.com/nuget/Announcements/labels/Feature) and [Breaking Change](https://github.com/nuget/Announcements/labels/Breaking%20Change) labels to see what's new and changed.
 
-New features will have one of the following labels:
+New feature announcements will have one of the following labels:
 * [Reviewing](https://github.com/nuget/Announcements/labels/Reviewing) - Feature being proposed and is undergoing review within the team and the community. 
 * [Reviewed](https://github.com/nuget/Announcements/labels/Reviewed) - Feature has been reviewed and necessary feedback incorporated. The feature is ready to be implemented.
 * [Implemented](https://github.com/nuget/Announcements/labels/Implemented) - Feature has been implemented.
