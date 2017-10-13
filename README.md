@@ -2,7 +2,7 @@
 
 This repo is for team announcements only. To file a bug or start a discussion, please create a new issue on [NuGet client](https://github.com/nuget/home/issues) or [NuGet server](https://github.com/nuget/NuGetGallery/issues). 
 
-All items posted to this repo are locked, but will typically have links to separate discussion threads on one of the NuGet repos. Please use those discussion threads for questions and comments about a particular announcement. 
+All items posted (as [issues](https://github.com/NuGet/Announcements/issues)) to this repo are locked, but will typically have links to separate discussion threads on one of the NuGet repos. Please use those discussion threads for questions and comments about a particular announcement. 
 
 ## Receiving Notifications
 
